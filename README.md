@@ -58,7 +58,7 @@ To run this project locally, follow these steps:
 ### Installation
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/yourusername/your-repo-name.git
+   git clone https://github.com/umeshyadav7988/QuadB_MERN_Assignment1.git
    cd your-repo-name
    ```
 
@@ -69,13 +69,13 @@ To run this project locally, follow these steps:
    cd backend
    npm install
    ```
-
+   
    **Frontend**:
    ```bash
    cd ../frontend
    npm install
    ```
-
+    
 3. **Environment variables**:
    - Create a `.env` file in the backend directory.
    - Add the following environment variables:
