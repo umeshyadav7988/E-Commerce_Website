@@ -1,7 +1,5 @@
 # E-Commerce Website
 
-![E-Commerce Website]()
-
 ## Table of Contents
 - [Introduction](#introduction)
 - [Features](#features)
