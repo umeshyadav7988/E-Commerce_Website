@@ -1,6 +1,6 @@
 # E-Commerce Website
 
-![E-Commerce Website](path-to-your-image.png)
+![E-Commerce Website]()
 
 ## Table of Contents
 - [Introduction](#introduction)
